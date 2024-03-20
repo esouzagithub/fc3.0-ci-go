@@ -4,7 +4,7 @@ import "testing"
 
 func TestSomar(t *testing.T) {
 
-	total := Somar(15, 10)
+	total := Somar(15, 15)
 
 	if total != 30 {
 
